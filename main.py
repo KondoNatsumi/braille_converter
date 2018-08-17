@@ -5,6 +5,7 @@ i = "● -\n● - \n- -"
 u = "⚫︎ ⚫︎\n- -\n- -"
 e = "⚫︎ ⚫︎\n● -\n- -"
 o = "- ⚫︎\n● -\n- -"
+ka = "⚫︎ -\n- -\n- ⚫︎"
 
 # foo = input("入力してください：")
 
@@ -21,6 +22,8 @@ elif input_value == "え":
 	print(e)
 elif input_value == "お":
 	print(o)
+elif input_value == "か":
+	print(ka)
 else:
 	print("ないね")
 # if 条件:
