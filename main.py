@@ -50,6 +50,52 @@ elif input_value == "か":
 	print(ka)
 elif input_value == "き":
 	print(ki)
+elif input_value == "く":
+	print(ku)
+elif input_value == "け":
+	print(ke)
+elif input_value == "こ":
+	print(ko)
+elif input_value == "さ"
+	print(sa)
+elif input_value == "し":
+	print(si)
+elif input_value == "す":
+	print(su)
+elif input_value == "せ":
+	print(se)
+elif input_value == "そ":
+	print(so)
+elif input_value == "た":
+	print(ta)
+elif input_value == "ち":
+	print(ti)
+elif input_value == "つ":
+	print(tu)
+elif input_value == "て":
+	print(te)
+elif input_value == "と":
+	print(to)
+elif input_value == "な":
+	print(na)
+elif input_value == "に":
+	print(ni)
+elif input_value == "ぬ":
+	print(nu)
+elif input_value == "ね":
+	print(ne)
+elif input_value == "の":
+	print(no)
+elif input_value == "は":
+	print(ha)
+elif input_value == "ひ":
+	print(hi)
+elif input_value == "ふ":
+	print(hu)
+elif input_value == "へ":
+	print(he)
+elif input_value == "ほ":
+	print(ho)
 
 else:
 	print("ないね")
